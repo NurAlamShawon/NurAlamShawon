@@ -31,7 +31,7 @@
 
 <table border="0">
 <th colspan="3">
-<td>Certificates</td>
+Certificates
 </th>
 <tr>
 <td><img src="https://github.com/NurAlamShawon/banner/blob/main/certificate/1690825773834.jpeg" width="300"</td>
