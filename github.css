@@ -1,0 +1,34 @@
+.main_div{
+    width: 100%;
+    height: 110px;
+    background-color: aqua;
+}
+.left{
+   
+    width: 50%;
+    height: 100%;
+    float: left;
+    background-color: blue;
+}
+.right{
+ 
+    width: 50%;
+    height: 100%;
+    float: right;
+    background-color: bisque;
+}
+
+.table_01{
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    text-align: center;
+
+}
+.table_02{
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    text-align: center;
+
+}
