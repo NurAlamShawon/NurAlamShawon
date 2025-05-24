@@ -1,4 +1,4 @@
-![logo]((https://i.postimg.cc/W10vtcpy/Blue-White-Modern-Tech-Web-Developer-Twitter-Header.png))
+![logo](https://i.postimg.cc/W10vtcpy/Blue-White-Modern-Tech-Web-Developer-Twitter-Header.png)
 <h1 align="center">Hi 👋, I'm Nur Alam Shawon</h1>
 <h3 align="center">A Passionate and Motivated Frontend Developer</h3>
 
