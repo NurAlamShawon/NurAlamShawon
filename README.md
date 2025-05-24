@@ -1,4 +1,4 @@
-![logo](https://github.com/NurAlamShawon/banner/blob/main/Yellow%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.png)
+![logo]([https://github.com/NurAlamShawon/banner/blob/main/Yellow%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.png](https://i.postimg.cc/W10vtcpy/Blue-White-Modern-Tech-Web-Developer-Twitter-Header.png))
 <h1 align="center">Hi 👋, I'm Nur Alam Shawon</h1>
 <h3 align="center">A Passionate and Motivated Frontend Developer</h3>
 
@@ -9,8 +9,6 @@
 - 🌱 I’m currently learning **Node.js , Express.js **
 
 - 📫 How to reach me **nuralamshawon9992@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/NurAlamShawon/Projects/blob/main/updated%20nur%20alam%20shawon%20cv.pdf](https://github.com/NurAlamShawon/Projects/blob/main/updated%20nur%20alam%20shawon%20cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
